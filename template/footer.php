@@ -1,19 +1,8 @@
 <html>
 <style>
 
-#page-container {
-  position: relative;
-  min-height: 100vh;
-}
-#content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
-}
 .site-footer
 {
-   position: absolute;
-   bottom: 0;
-   width: 100%
-
   font-size:15px;
   line-height:24px;
   color:#737373;
@@ -185,7 +174,9 @@
 
 
 <body>
-
+<br>
+  <br>
+  <br>
 <!-- Site footer -->
 <footer class="site-footer">
       <div class="container">
